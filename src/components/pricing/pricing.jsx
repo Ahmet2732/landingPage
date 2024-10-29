@@ -11,7 +11,10 @@ function Pricing() {
         <p className="section-description text-center mb-5">
           Start working with us to access everything you need to generate awareness, drive traffic, and connect.
         </p>
-      <button className='btn btn-info w-50 fw-bold'> Buy Now <span className='  rounded-5 bg-danger p-1'>v.1.2.3</span></button>
+        <div className="btnBuy text-center text-md-start mb-4">
+        <button className='btn btn-info w-50 fw-bold '> Buy Now <span className='  rounded-5 bg-danger p-1'>v.1.2.3</span></button>
+        </div>
+      
         </div>
    
 
